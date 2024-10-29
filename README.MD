@@ -11,4 +11,4 @@ This is stripped down version of firefox, that doesn't have:
 
 It also comes with pre-set about:config, slightly optimized for privacy and disabling update + telemetry (will add more to it overtime)
 
-Feel free to check it out!
+Feel free to check it out! 
